@@ -1,3 +1,10 @@
+# Indian-Restaurant
+
+It's a simple indian foodie app with different food items that includes breakfast, Lunch , Evening, Dinner. The Items are categorized accodriding to type of breakfast.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
